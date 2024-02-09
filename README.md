@@ -20,7 +20,7 @@ Main Repository for our Class attendance facial recognition Projects.
 **Major**:Computer Science  <br>
 **Classification**: Senior <br> 
 **Email**: bgl200101@gmail.com / bglawson1001@my.msutexas.edu<br>
-#### <img src="https://user-images.githubusercontent.com/122930732/213792198-2ec0a7e9-3401-499d-8e7d-353c619e63b9.jpg" width="400" height="400">
+#### <img src="https://user-images.githubusercontent.com/122930732/213792198-2ec0a7e9-3401-499d-8e7d-353c619e63b9.jpg" width="400" height="450">
 
 **Introduction**: <br> I have been a Computer Science major at Midwestern State University since 20
 
