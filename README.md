@@ -7,7 +7,7 @@ students present in the image an mark them as present. This project will be achi
 
 | Content Link | Content Description |
 | ----------- | ---------------------- |
-|             |                        |
+|[Resources]()            | Contains links and all resources used in the creation of this project|
 
 
 ## Contributors To the The Project.
