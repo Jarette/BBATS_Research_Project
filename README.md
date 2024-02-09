@@ -13,5 +13,6 @@ Main Repository for our Class attendance facial recognition Projects.
 **Major**:Computer Science  <br>
 **Classification**: Junior <br> 
 **Email**: jarettegreene09@gmail.com / jkgreene0406@my.msutexas.edu<br>
-![IMG_9755.jpeg](https://github.com/Jarette/Images/blob/main/IMG_9755.jpeg)
+<br>
+![IMG_9755.jpeg](https://github.com/Jarette/Images/blob/main/IMG_9755.jpeg = 100x100)
 **Introduction**: <br>
