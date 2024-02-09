@@ -9,8 +9,9 @@ Main Repository for our Class attendance facial recognition Projects.
 ## Contributors To the The Project.
 
 **Name** : Jarette Greene <br>
-**University**: <br>
-**Major**: <br>
-**Classification**: <br> 
-**Email**: <br>
+**University**: Midwestern State University<br>
+**Major**:Computer Science  <br>
+**Classification**: Junior <br> 
+**Email**: jarettegreene09@gmail.com / jkgreene0406@my.msutexas.edu<br>
+!
 **Introduction**: <br>
