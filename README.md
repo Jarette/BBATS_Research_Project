@@ -1,5 +1,6 @@
 # BBATS_Research_Project
-Main Repository for our Class attendance facial recognition Projects. 
+#### Project Description: 
+<p>This project entails the creation of an class attendance application that uses an image of the </p>
 
 
 
