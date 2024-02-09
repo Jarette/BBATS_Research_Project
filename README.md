@@ -15,6 +15,10 @@ Main Repository for our Class attendance facial recognition Projects.
 
 <img src="https://github.com/Jarette/Images/blob/main/IMG_9755.jpeg" width="400" height="400">
 
+**Introduction**: 
+
+======================================================================================================================================================================
+
 **Name** : Brayden Lawson <br>
 **University**: Midwestern State University<br>
 **Major**:Computer Science  <br>
