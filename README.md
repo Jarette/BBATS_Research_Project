@@ -16,8 +16,11 @@ Main Repository for our Class attendance facial recognition Projects.
 <img src="https://github.com/Jarette/Images/blob/main/IMG_9755.jpeg" width="400" height="400">
 
 **Introduction**: 
+<p>I am Computer Science International Student from St.Kitts and Nevis attending Midwestern State University. I have experience in C++, C, Golang. 
+After Graduation I am interested in the field of Cyber Security or Operating Systems. I am hoping through this project I could get experience working 
+through the entire project creation progress and getting more experience with Python and AI machine learning concept and implementation. </p>
 
-======================================================================================================================================================================
+==========================================================================================================================
 
 **Name** : Brayden Lawson <br>
 **University**: Midwestern State University<br>
