@@ -14,5 +14,5 @@ Main Repository for our Class attendance facial recognition Projects.
 **Classification**: Junior <br> 
 **Email**: jarettegreene09@gmail.com / jkgreene0406@my.msutexas.edu<br>
 <br>
-![IMG_9755.jpeg](https://github.com/Jarette/Images/blob/main/IMG_9755.jpeg| width = 100)
+<img src="https://github.com/Jarette/Images/blob/main/IMG_9755.jpeg" width="100" height="100">
 **Introduction**: <br>
