@@ -25,7 +25,7 @@ Main Repository for our Class attendance facial recognition Projects.
 **Classification**: Senior <br> 
 **Email**: bgl200101@gmail.com / bglawson1001@my.msutexas.edu<br>
 #### <img src="https://user-images.githubusercontent.com/122930732/213792198-2ec0a7e9-3401-499d-8e7d-353c619e63b9.jpg" width="400" height="450">
-**Introduction**: I have been a Computer Science major at Midwestern State University since 2021. I have always been facsinated with technology and the tech industry. I'm especially interested in mobile app development and cybersecurity.
+**Introduction**: I have been a Computer Science major at Midwestern State University since 2021. I have always been facsinated with technology and the tech industry. I'm especially interested in mobile app development and cybersecurity. I have experience in Python, C++, Golang, and Assembly.
 
 
 
