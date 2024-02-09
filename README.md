@@ -8,9 +8,9 @@ Main Repository for our Class attendance facial recognition Projects.
 
 ## Contributors To the The Project.
 
-**Name** : Jarette Greene
-**University**:
-**Major**
-**Classification**: 
-**Email**:
-**Introduction**:
+**Name** : Jarette Greene <br>
+**University**: <br>
+**Major**: <br>
+**Classification**: <br> 
+**Email**: <br>
+**Introduction**: <br>
