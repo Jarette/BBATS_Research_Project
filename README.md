@@ -20,7 +20,7 @@ Main Repository for our Class attendance facial recognition Projects.
 After Graduation I am interested in the field of Cyber Security or Operating Systems. I am hoping through this project I could get experience working 
 through the entire project creation progress and getting more experience with Python and AI machine learning concept and implementation. </p>
 
-============================================================================
+<=======================================================================================================================================>
 
 **Name** : Brayden Lawson <br>
 **University**: Midwestern State University<br>
