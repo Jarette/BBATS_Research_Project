@@ -1,0 +1,6 @@
+imgaug
+imageio
+matplotlib
+opencv-python
+#opencv-contrib-python
+rich

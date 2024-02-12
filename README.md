@@ -5,9 +5,11 @@ students present in the image an mark them as present. This project will be achi
 
 ##  Table of Content
 
-| Content Link | Content Description |
-| ----------- | ---------------------- |
-|[Resources](https://github.com/Jarette/BBATS_Research_Project/tree/main/Resources)| Contains links and all resources used in the creation of this project|
+|   #   | Name                           | Description                                                           |
+| :---: | :----------------------------- | :-------------------------------------------------------------------- |
+|   1   | [LICENSE](LICENSE)             | License                                                               |
+|   2   | [./Resources](Resources)       | Contains links and all resources used in the creation of this project |
+|   3   | [./griffin_code](griffin_code) | Griffin's playground of code.                                         |
 
 
 ## Contributors To the The Project.
