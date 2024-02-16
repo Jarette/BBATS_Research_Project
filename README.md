@@ -1,4 +1,4 @@
-# BBATS_Research_Project
+# Biometric Based Attendance Tracking System (BBATs) Research Project
 #### Project Description: 
 <p>This project entails the creation of an class attendance application that uses an image of the the entire class and analyzes this image to identify all the 
 students present in the image an mark them as present. This project will be achieved through the use of Python and AI machine learning to use Facial Recongintion to recognize the students face with images. Then this application will access a database containing data on students to match the faces of the students. This application will also have other basic app functionality and will have different features based on if this application is being accessed by a student or a proffesor.  </p>
